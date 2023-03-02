@@ -6,7 +6,7 @@ body{
  h1
 @font-face {
 font-family: 'Myfont';
-src: url('../fonts/Myfont.ttf')format('ttf'),;
+src: url('../fonts/Myfont.ttf')format('ttf');
 }
 h4
 {font-family:Fredoka One}
