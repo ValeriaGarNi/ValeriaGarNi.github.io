@@ -6,7 +6,7 @@ body{
 
 @font-face {
 font-family: 'Myfont';
-src: url(Myfont.ttf);
+src: url(fonts/Myfont-Regular.ttf);
 }
 h3
 {
