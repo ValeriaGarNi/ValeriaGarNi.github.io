@@ -3,11 +3,11 @@ body{
   color: #03DAC5;
   
 }
- h1
+ h3
 @font-face {
 font-family: 'Myfont';
 src: url('../fonts/Myfont.ttf')format('ttf');
 }
-h4
+h1
 {font-family:Fredoka One}
   
