@@ -8,5 +8,9 @@ body{
 font-family: 'Myfont';
 src: url('../fonts/Myfont.ttf')format('ttf');
 }
+h3
+{
+font-family: 'Myfont';
+}
 
   
