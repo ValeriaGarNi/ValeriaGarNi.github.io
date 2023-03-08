@@ -3,10 +3,8 @@ body{
   color: #03DAC5;
   
 }
-p
-{
-font-size: 14px; /* Párrafo de 14 pixeles */
-}
+
+
 @font-face {
 font-family: 'Myfont';
 src: url(fonts/Myfont-Regular.ttf);
@@ -14,7 +12,11 @@ src: url(fonts/Myfont-Regular.ttf);
 h3
 {
 font-family: 'Myfont';
+font-size: 40px; /* Párrafo de 14 pixeles */
 }
-
   
-  
+  h1
+{
+font-family: 'Myfont';
+font-size: 60px; /* Párrafo de 14 pixeles */
+}
