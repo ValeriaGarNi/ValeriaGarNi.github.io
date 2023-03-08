@@ -3,7 +3,10 @@ body{
   color: #03DAC5;
   
 }
-
+p
+{
+font-size: 14px; /* Párrafo de 14 pixeles */
+}
 @font-face {
 font-family: 'Myfont';
 src: url(fonts/Myfont-Regular.ttf);
