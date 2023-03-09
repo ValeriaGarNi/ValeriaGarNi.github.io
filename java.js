@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var button = document.createElement('input');
     button.type = 'button';
     button.id = 'submit';
-    button.value = 'Cambiar Fondo';
+    button.value = 'Submit';
     button.className = 'btn';
  
     button.onclick = function() {
